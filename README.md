@@ -1,8 +1,8 @@
 Laís Medeiros Costa Gonçalves;
-https://github.com/LaisMedeiros02
+https://github.com/LaisMedeiros02/Trabalho-de-Arquitetura-de-Computadores
 
 Letícia Medeiros Costa Gonçalves: 
-https://github.com/Leticiagoncalves01
+https://github.com/Leticiagoncalves01/Trabalho-de-Arquitetura-de-Computadores
 
 Roberta Sued Nascimento Gomes de Santana 
 https://github.com/RobertaSued/Trabalho-de-Arquitetura-de-Computadores
