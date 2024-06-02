@@ -8,6 +8,7 @@ Roberta Sued Nascimento Gomes de Santana
 https://github.com/RobertaSueed/Trabalho-de-Arquitetura-de-Computadores
 
 Milena Lopes Calasans de Souza;
+https://github.com/iMilena/Arquitetura-de-computadores
 
 Geziel Xavier Nobre Junior;  
 
